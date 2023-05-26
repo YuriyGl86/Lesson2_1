@@ -1,14 +1,22 @@
 {
   "name": "defender-game",
   "version": "1.0.0",
-  "description": "\"Browser based game\"",
+  "description": "Browser based game",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyGl86/Lesson2_1.git"
+  },
   "keywords": [
     "game"
   ],
-  "author": "yuriygl86",
-  "license": "ISC"
+  "author": "yuriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyGl86/Lesson2_1/issues"
+  },
+  "homepage": "https://github.com/YuriyGl86/Lesson2_1#readme"
 }
